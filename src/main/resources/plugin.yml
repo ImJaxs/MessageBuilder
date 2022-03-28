@@ -1,0 +1,4 @@
+name: MessageBuilder
+version: '${project.version}'
+main: me.imjaxs.dev.messagebuilder.MessageBuilderPlugin
+authors: [ zHeroandre ]
